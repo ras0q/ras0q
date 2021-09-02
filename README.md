@@ -1,8 +1,10 @@
 ### Hi there 👋
-
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Ras96&column=4&row=2" />
+    <img align="top" src="https://github-profile-trophy.vercel.app/?username=Ras96&column=4&row=2" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ras96&theme=github" />
   </a>
 </div>
 <p></p>
@@ -11,7 +13,7 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=Ras96&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ras96&langs_count=10&layout=compactmos&exclude_repo=Com-Pro" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ras96&langs_count=10&layout=compact&hide=shell&exclude_repo=Com-Pro" />
   </a>
 </div>
 
