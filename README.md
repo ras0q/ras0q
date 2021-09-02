@@ -4,7 +4,7 @@
     <img align="top" src="https://github-profile-trophy.vercel.app/?username=Ras96&column=4&row=2" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ras96&theme=github" width="39%" height="39%"/>
+    <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ras96&theme=github" />
   </a>
 </div>
 <p></p>
