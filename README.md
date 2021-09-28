@@ -1,21 +1,11 @@
 ### Hi there 👋
-<div>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="top" src="https://github-profile-trophy.vercel.app/?username=Ras96&column=4&row=2" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ras96&theme=github" />
-  </a>
-</div>
-<p></p>
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Ras96&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ras96&langs_count=10&layout=compact&hide=shell&exclude_repo=Com-Pro&count_private=false" />
-  </a>
-</div>
+
+| [![](https://github-profile-trophy.vercel.app/?username=Ras96&column=4&row=2&no-frame=true)][ryo-ma] | [![](https://github-readme-stats.vercel.app/api?username=Ras96&count_private=true&show_icons=true&hide_border=true)][anuraghazra] |
+| --- | --- |
+| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ras96&layout=compact&exclude_repo=Com-Pro,dotfiles&count_private=false&hide_border=true)][anuraghazra] | [![](https://github-readme-stats.vercel.app/api/pin/?username=traPtitech&repo=traPortfolio&hide_border=true)][anuraghazra] |
+
+[ryo-ma]:https://github.com/ryo-ma/github-profile-trophy
+[anuraghazra]:https://github.com/anuraghazra/github-readme-stats
 
 <!--
 **Ras96/Ras96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
