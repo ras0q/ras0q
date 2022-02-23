@@ -2,7 +2,7 @@
 
 | [![](https://github-profile-trophy.vercel.app/?username=Ras96&column=4&row=2&no-frame=true)][ryo-ma] | [![](https://github-readme-stats.vercel.app/api?username=Ras96&count_private=true&show_icons=true&hide_border=true)][anuraghazra] |
 | --- | --- |
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ras96&layout=compact&exclude_repo=Com-Pro,dotfiles_v2&count_private=false&hide_border=true)][anuraghazra] | [![](https://github-readme-stats.vercel.app/api/pin/?username=Ras96&repo=gcg&hide_border=true)](https://github.com/Ras96/gcg) |
+| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ras96&layout=compact&exclude_repo=Com-Pro,dotfiles&count_private=false&hide_border=true)][anuraghazra] | [![](https://github-readme-stats.vercel.app/api/pin/?username=Ras96&repo=gcg&hide_border=true)](https://github.com/Ras96/gcg) |
 
 [ryo-ma]:https://github.com/ryo-ma/github-profile-trophy
 [anuraghazra]:https://github.com/anuraghazra/github-readme-stats
