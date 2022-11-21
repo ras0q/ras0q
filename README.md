@@ -2,7 +2,7 @@
 
 | [![trophy-image]][ryo-ma-repo] | [![stats-image]][anuraghazra-repo] |
 | - | - |
-| [![toplangs-image]][anuraghazra-repo] | **My Skills**<br/><br/>[![my-skills]][skill-icons-repo] |
+| [![toplangs-image]][anuraghazra-repo] | **:seedling: My Skills**<br/><br/>[![my-skills]][skill-icons-repo] |
 
 [trophy-image]: https://github-profile-trophy.vercel.app/?username=Ras96&column=4&row=2&no-frame=true
 [stats-image]: https://github-readme-stats.vercel.app/api?username=Ras96&count_private=true&show_icons=true&hide_border=true
