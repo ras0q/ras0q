@@ -2,27 +2,12 @@
 
 | [![trophy-image]][ryo-ma-repo] | [![stats-image]][anuraghazra-repo] |
 | - | - |
-| [![toplangs-image]][anuraghazra-repo] | **:seedling: My Skills**<br/><br/>[![my-skills]][skill-icons-repo] |
+| [![toplangs-image]][anuraghazra-repo] | [![pin-image]][anuraghazra-repo] |
 
 [trophy-image]: https://github-profile-trophy.vercel.app/?username=ras0q&column=4&row=2&no-frame=true
 [stats-image]: https://github-readme-stats.vercel.app/api?username=ras0q&count_private=true&show_icons=true&hide_border=true
 [toplangs-image]: https://github-readme-stats.vercel.app/api/top-langs/?username=ras0q&layout=compact&exclude_repo=Com-Pro,dotfiles,swift-traq&count_private=false&hide_border=true
-[my-skills]: https://skillicons.dev/icons?perline=6&i=git,github,go,swift,js,ts,nodejs,py,docker,linux,mysql,matlab,vim,vscode
+[pin-image]: https://github-readme-stats.vercel.app/api/pin/?username=ras0q&repo=dotfiles&show_owner=true
 [ryo-ma-repo]: https://github.com/ryo-ma/github-profile-trophy
 [anuraghazra-repo]: https://github.com/anuraghazra/github-readme-stats
 [skill-icons-repo]: https://github.com/tandpfun/skill-icons
-
-<!--
-**ras0q/ras0q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
