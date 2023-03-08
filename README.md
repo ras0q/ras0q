@@ -2,7 +2,7 @@
 
 | [![trophy-image]][ryo-ma-repo] | [![stats-image]][anuraghazra-repo] |
 | - | - |
-| [![toplangs-image]][anuraghazra-repo] | [![pin-image]][anuraghazra-repo] |
+| [![toplangs-image]][anuraghazra-repo] | [![pin-image]][dotfiles-repo] |
 
 [trophy-image]: https://github-profile-trophy.vercel.app/?username=ras0q&column=4&row=2&no-frame=true
 [stats-image]: https://github-readme-stats.vercel.app/api?username=ras0q&count_private=true&show_icons=true&hide_border=true
