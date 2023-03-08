@@ -10,4 +10,4 @@
 [pin-image]: https://github-readme-stats.vercel.app/api/pin/?username=ras0q&repo=dotfiles&show_owner=true&hide_border=true
 [ryo-ma-repo]: https://github.com/ryo-ma/github-profile-trophy
 [anuraghazra-repo]: https://github.com/anuraghazra/github-readme-stats
-[skill-icons-repo]: https://github.com/tandpfun/skill-icons
+[dotfiles-repo]: https://github.com/ras0q/dotfiles
