@@ -13,9 +13,9 @@
 
 ## :art: About `@ras0q`
 
-- Undergraduate @ [Tokyo Institute of Technology](https://educ.titech.ac.jp/ict/)
+- Undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
   - I'm currently learning information and communications engineering
-- Member @ [Digital Creators Club traP](https://trap.jp/)
+- Member @ [traP](https://trap.jp/) [SysAd](https://github.com/traPtitech)
 
 [![i-ras0q]][r-ras0q] [![i-dotfiles]][r-dotfiles] [![i-portfolio]][r-portfolio]
 
