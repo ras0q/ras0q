@@ -1,8 +1,8 @@
 # :art: Ras@ras0q
 
-[![i-trophy]][r-ryo-ma]        | [![i-stats]][r-anuraghazra]
------------------------------- | ---------------------------
-[![i-toplangs]][r-anuraghazra] | [![i-pin]][r-dotfiles]
+[![i-stats]][r-anuraghazra] | [![i-toplangs]][r-anuraghazra]
+--------------------------- | ------------------------------
+[![i-trophy]][r-ryo-ma]     | [![i-pin]][r-dotfiles]
 
 [i-trophy]: https://github-profile-trophy.vercel.app/?username=ras0q&column=4&row=2&no-frame=true
 [i-stats]: https://github-readme-stats.vercel.app/api?username=ras0q&count_private=true&show_icons=true&hide_border=true
