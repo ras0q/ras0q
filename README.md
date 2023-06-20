@@ -1,8 +1,23 @@
-# :wave: Hi, I'm `Ras@ras0q`
+# :art:Ras / ras0q
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
+  />
+</picture>
 
 ![terminal1](https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/terminal1.svg)
 
-## :art: About `@ras0q`
+## :guitar: About [@ras0q](https://github.com/ras0q)
 
 - Undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
   - I'm currently learning information and communications engineering

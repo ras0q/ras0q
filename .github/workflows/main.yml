@@ -75,3 +75,29 @@ jobs:
           plugin_achievements_threshold: C
           plugin_stars: yes
           plugin_stars_limit: 2
+
+  jobs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          gist_id: ${{ env.METRICS_GIST }}
+          gist_filename: github-snake.svg
+          file_path: dist/github-snake.svg
+          file_type: binary
+      - uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          gist_id: ${{ env.METRICS_GIST }}
+          gist_filename: github-snake-dark.svg
+          file_path: dist/github-snake-dark.svg
+          file_type: binary
