@@ -31,4 +31,4 @@
 
 ## :tada: Recent activities
 
-![activity1](activity1.svg) ![activity2](activity2.svg)
+<img src="activity1.svg" width="45%" /> <img src="activity2.svg" width="45%" />
