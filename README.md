@@ -1,6 +1,6 @@
 # :wave: Hi, I'm `Ras@ras0q`
 
-![terminal1](https://gist.githubusercontent.com/ras0q/2d6e8562260250bf4204584b9119ca9b/raw/terminal1.svg)
+![terminal1](https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/terminal1.svg)
 
 ## :art: About `@ras0q`
 
@@ -21,9 +21,9 @@
 ## :tada: Recent activities
 
 <img
-  src="https://gist.githubusercontent.com/ras0q/2d6e8562260250bf4204584b9119ca9b/raw/activity1.svg"
+  src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/activity1.svg"
   width="380px"
 /><img
-  src="https://gist.githubusercontent.com/ras0q/2d6e8562260250bf4204584b9119ca9b/raw/activity2.svg"
+  src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/activity2.svg"
   width="380px"
 />
