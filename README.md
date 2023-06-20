@@ -42,3 +42,11 @@
   src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/activity2.svg"
   width="380px"
 />
+
+---
+
+Powered by
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics)
+- [Platane/snk](https://github.com/Platane/snk)
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
