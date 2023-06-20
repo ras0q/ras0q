@@ -29,11 +29,6 @@
 [i-portfolio]: https://github-readme-stats-ras0q.vercel.app/api/pin/?username=ras0q&repo=ras.place&show_owner=true
 [r-portfolio]: https://github.com/ras0q/ras.place
 
-## :muscle: Skills
+## :tada: Recent activities
 
-[![i-toplangs]][r-stats]
-
-<!-- Refs Begin -->
-[i-toplangs]: https://github-readme-stats-ras0q.vercel.app/api/top-langs/?username=ras0q&layout=compact&exclude_repo=Com-Pro,dotfiles&count_private=false&hide_border=true
-<!-- [r-stats] is the same as above -->
-<!-- Refs End -->
+<img src="activity1.svg" width="40%" /> <img src="activity2.svg" width="40%" />
