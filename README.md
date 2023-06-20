@@ -18,7 +18,7 @@
 [i-portfolio]: https://github-readme-stats-ras0q.vercel.app/api/pin/?username=ras0q&repo=ras.place&show_owner=true
 [r-portfolio]: https://github.com/ras0q/ras.place
 
-## :tada: Recent activities
+## :tada: Activities
 
 <img
   src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/activity1.svg"
