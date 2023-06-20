@@ -1,17 +1,6 @@
 # :wave: Hi, I'm `Ras@ras0q`
 
-[![i-stats]][r-stats]
-
-[![i-trophy]][r-ryo-ma]
-
 ![terminal1](terminal1.svg)
-
-<!-- Refs Begin -->
-[i-stats]: https://github-readme-stats-ras0q.vercel.app/api?username=ras0q&count_private=true&show_icons=true&hide_border=true
-[r-stats]: https://github.com/ras0q/github-readme-stats
-[i-trophy]: https://github-profile-trophy.vercel.app/?username=ras0q&column=6&row=1&no-frame=true
-[r-ryo-ma]: https://github.com/ryo-ma/github-profile-trophy
-<!-- Refs End -->
 
 ## :art: About `@ras0q`
 
@@ -31,4 +20,4 @@
 
 ## :tada: Recent activities
 
-<img src="activity1.svg" width="45%" /> <img src="activity2.svg" width="45%" />
+<img src="activity1.svg" width="400px" /> <img src="activity2.svg" width="400px" />
