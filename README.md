@@ -4,6 +4,8 @@
 
 [![i-trophy]][r-ryo-ma]
 
+![terminal1](terminal1.svg)
+
 <!-- Refs Begin -->
 [i-stats]: https://github-readme-stats-ras0q.vercel.app/api?username=ras0q&count_private=true&show_icons=true&hide_border=true
 [r-stats]: https://github.com/ras0q/github-readme-stats
