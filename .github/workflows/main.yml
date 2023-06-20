@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  METRICS_GIST: "2d6e8562260250bf4204584b9119ca9b"
+  METRICS_GIST: "516152e14bb724ad66abe542935668ab"
 
 jobs:
   metrics-terminal:
