@@ -15,7 +15,11 @@
   />
 </picture>
 
-![terminal1](https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/terminal1.svg)
+<img
+  src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/terminal1.svg"
+  width="100%"
+  height="auto"
+/>
 
 ## :guitar: About [@ras0q](https://github.com/ras0q)
 
