@@ -20,7 +20,7 @@ jobs:
           filename: terminal1.svg
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
-          committer_gist: ${{ secrets.METRICS_GIST }}
+          committer_gist: ${{ env.METRICS_GIST }}
           template: terminal
           base: header, activity, repositories, metadata
           config_display: columns
@@ -36,7 +36,7 @@ jobs:
           filename: activity1.svg
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
-          committer_gist: ${{ secrets.METRICS_GIST }}
+          committer_gist: ${{ env.METRICS_GIST }}
           template: classic
           base: ""
           config_timezone: Asia/Tokyo
@@ -64,7 +64,7 @@ jobs:
           filename: activity2.svg
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
-          committer_gist: ${{ secrets.METRICS_GIST }}
+          committer_gist: ${{ env.METRICS_GIST }}
           template: classic
           base: ""
           config_timezone: Asia/Tokyo
