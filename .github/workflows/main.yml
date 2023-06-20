@@ -91,13 +91,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           gist_id: ${{ env.METRICS_GIST }}
-          gist_filename: github-snake.svg
+          gist_file_name: github-snake.svg
           file_path: dist/github-snake.svg
           file_type: binary
       - uses: exuanbo/actions-deploy-gist@v1
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           gist_id: ${{ env.METRICS_GIST }}
-          gist_filename: github-snake-dark.svg
+          gist_file_name: github-snake-dark.svg
           file_path: dist/github-snake-dark.svg
           file_type: binary
