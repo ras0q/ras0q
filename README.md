@@ -24,7 +24,6 @@
 ## :guitar: About [@ras0q](https://github.com/ras0q)
 
 - Undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
-  - I'm currently learning information and communications engineering
 - Member @ [traP](https://trap.jp/) [SysAd](https://github.com/traPtitech)
 
 [![i-ras0q]][r-ras0q] [![i-dotfiles]][r-dotfiles] [![i-portfolio]][r-portfolio]
