@@ -1,4 +1,4 @@
-# :art:Ras / ras0q
+# :art: Ras / ras0q
 
 <picture>
   <source
@@ -26,15 +26,25 @@
 - Undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
 - Member @ [traP](https://trap.jp/) [SysAd](https://github.com/traPtitech)
 
-[![i-ras0q]][r-ras0q] [![i-dotfiles]][r-dotfiles] [![i-portfolio]][r-portfolio]
-
-<!-- Refs Begin -->
-[i-ras0q]: https://github-readme-stats-ras0q.vercel.app/api/pin/?username=ras0q&repo=ras0q&show_owner=true
-[r-ras0q]: https://github.com/ras0q/ras0q
-[i-dotfiles]: https://github-readme-stats-ras0q.vercel.app/api/pin/?username=ras0q&repo=dotfiles&show_owner=true
-[r-dotfiles]: https://github.com/ras0q/dotfiles
-[i-portfolio]: https://github-readme-stats-ras0q.vercel.app/api/pin/?username=ras0q&repo=ras.place&show_owner=true
-[r-portfolio]: https://github.com/ras0q/ras.place
+<a href="https://github.com/ras0q/ras0q">
+  <img
+    src="https://github-readme-stats-ras0q.vercel.app/api/pin/?username=ras0q&repo=ras0q&show_owner=true"
+    width="320px"
+    height="auto"
+  />
+</a><a href="https://github.com/ras0q/dotfiles">
+  <img
+    src="https://github-readme-stats-ras0q.vercel.app/api/pin/?username=ras0q&repo=dotfiles&show_owner=true"
+    width="320px"
+    height="auto"
+  />
+</a><a href="https://github.com/ras0q/ras.place">
+  <img
+    src="https://github-readme-stats-ras0q.vercel.app/api/pin/?username=ras0q&repo=ras.place&show_owner=true"
+    width="320px"
+    height="auto"
+  />
+</a>
 
 ## :tada: Activities
 
