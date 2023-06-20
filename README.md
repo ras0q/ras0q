@@ -20,4 +20,4 @@
 
 ## :tada: Recent activities
 
-<img src="activity1.svg" width="400px" /> <img src="activity2.svg" width="400px" />
+<img src="activity1.svg" width="380px" /><img src="activity2.svg" width="380px" />
