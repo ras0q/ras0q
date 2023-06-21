@@ -11,8 +11,6 @@
   />
   <img
     alt="github contribution grid snake animation"
-    width="80%"
-    height="auto"
     src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
   />
 </picture>
