@@ -1,5 +1,7 @@
 # :art: Ras / ras0q
 
+<img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/terminal1.svg" />
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -14,12 +16,6 @@
     src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
   />
 </picture>
-
-<img
-  src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/terminal1.svg"
-  width="100%"
-  height="auto"
-/>
 
 ## :guitar: About [@ras0q](https://github.com/ras0q)
 
