@@ -1,7 +1,5 @@
 # :art: Ras / ras0q
 
-<img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/terminal1.svg" />
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -13,11 +11,15 @@
   />
   <img
     alt="github contribution grid snake animation"
+    width="80%"
+    height="auto"
     src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
   />
 </picture>
 
 ## :guitar: About [@ras0q](https://github.com/ras0q)
+
+<img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/terminal1.svg" />
 
 - Undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
 - Member @ [traP](https://trap.jp/) [SysAd](https://github.com/traPtitech)
