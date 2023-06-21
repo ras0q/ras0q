@@ -22,7 +22,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ env.METRICS_GIST }}
           template: terminal
-          base: header, activity, repositories
+          base: header
           config_display: large
           config_timezone: Asia/Tokyo
 
