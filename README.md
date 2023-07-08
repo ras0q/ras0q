@@ -1,21 +1,4 @@
-# :art: Ras / ras0q
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
-  />
-</picture>
-
-## :guitar: About [@ras0q](https://github.com/ras0q)
+# :wave: Hi, I’m [@ras0q](https://github.com/ras0q)
 
 <div align="center">
   
@@ -49,6 +32,21 @@
 </a>
 
 ## :tada: Activities
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
+  />
+</picture>
 
 <img
   src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/activity1.svg"
