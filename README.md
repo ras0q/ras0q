@@ -17,6 +17,8 @@
 
 ## :guitar: About [@ras0q](https://github.com/ras0q)
 
+**[GitHub](https://github.com/ras0q)** / **[Twitter](https://twitter.com/ras0q)** / **[Scrapbox](https://scrapbox.io/ras0q)** / **[kaggle](https://kaggle.com/ras0qq)** / **[traP Blog](https://trap.jp/author/ras)** / **[Portfolio](https://ras.place)**
+
 <img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/terminal1.svg" />
 
 - Undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
