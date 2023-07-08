@@ -1,6 +1,8 @@
-# :wave: Hi, I’m [@ras0q](https://github.com/ras0q)
+# Hi, there:wave:
 
 ![profile](https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg)
+
+## :guitar: About [@ras0q](https://github.com/ras0q)
 
 <div align="center">
   
