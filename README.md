@@ -1,5 +1,7 @@
 # :wave: Hi, I’m [@ras0q](https://github.com/ras0q)
 
+![profile](https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg)
+
 <div align="center">
   
 :octocat: **[GitHub](https://github.com/ras0q)** / :bird: **[Twitter](https://twitter.com/ras0q)** / :pencil: **[Scrapbox](https://scrapbox.io/ras0q)** / :robot: **[kaggle](https://kaggle.com/ras0qq)**
