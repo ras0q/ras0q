@@ -10,21 +10,28 @@ env:
   METRICS_GIST: "516152e14bb724ad66abe542935668ab"
 
 jobs:
-  metrics-terminal:
+  metrics-profile:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: terminal1.svg
+          filename: profile.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: ras0q
           output_action: gist
           committer_gist: ${{ env.METRICS_GIST }}
-          template: terminal
-          base: header, repositories
-          config_display: large
+          template: classic
+          base: header, activity, community
+          config_order: base.header, languages, base.activity, base.community
           config_timezone: Asia/Tokyo
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_skipped: Com-Pro,dotfiles
+          plugin_languages_threshold: 2%
 
   metrics-activity1:
     runs-on: ubuntu-latest
@@ -42,12 +49,6 @@ jobs:
           config_timezone: Asia/Tokyo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_skipped: Com-Pro,dotfiles
-          plugin_languages_threshold: 2%
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           plugin_notable_from: all
