@@ -53,14 +53,6 @@ I'm...
   />
 </picture>
 
-<img
-  src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/activity1.svg"
-  width="380px"
-/><img
-  src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/activity2.svg"
-  width="380px"
-/>
-
 ---
 
 Powered by
