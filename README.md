@@ -12,8 +12,9 @@
 
 </div>
 
-- Undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
-- Member @ [traP](https://trap.jp/) [SysAd](https://github.com/traPtitech)
+I'm...
+- an undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
+- a member @ [traP](https://trap.jp/) [SysAd](https://github.com/traPtitech)
 
 <a href="https://github.com/ras0q/ras0q">
   <img
