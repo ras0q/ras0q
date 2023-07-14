@@ -23,8 +23,8 @@ jobs:
           output_action: gist
           committer_gist: ${{ env.METRICS_GIST }}
           template: classic
-          base: header, activity, community
-          config_order: base.header, languages, base.activity, base.community
+          base: header, activity, community, repositories
+          config_order: base.header, languages, base.activity, base.community, base.repositories
           config_timezone: Asia/Tokyo
           plugin_languages: yes
           plugin_languages_colors: github
