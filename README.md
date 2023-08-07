@@ -4,13 +4,9 @@
 
 ## :guitar: About [@ras0q](https://github.com/ras0q)
 
-<div align="center">
-  
-:octocat: **[GitHub](https://github.com/ras0q)** / :bird: **[Twitter](https://twitter.com/ras0q)** / :pencil: **[Scrapbox](https://scrapbox.io/ras0q)** / :robot: **[kaggle](https://kaggle.com/ras0qq)**
-<br/>
-:speaking_head: **[traP Blog](https://trap.jp/author/ras)** / :rainbow: **[Portfolio](https://ras.place)** / :wave: **[Wavebox](https://wavebox.me/wave/d58h07na1fd2iwcf/)**
-
-</div>
+:octocat: **[GitHub](https://github.com/ras0q)** | :bird: **[Twitter](https://twitter.com/ras0q)** | :pencil: **[Scrapbox](https://scrapbox.io/ras0q)** 
+:-|:-|:-
+:speaking_head: **[traP Blog](https://trap.jp/author/ras)** | :rainbow: **[Portfolio](https://ras.place)** | :wave: **[Wavebox](https://wavebox.me/wave/d58h07na1fd2iwcf/)**
 
 I'm...
 - an undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
