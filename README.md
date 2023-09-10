@@ -32,5 +32,3 @@ I'm a backend / iOS app developper
   - Swift
   - JavaScript / TypeScript
   - Python (for research)
-
-![](https://github-readme-stats-ras0q.vercel.app/api/pin/?username=ras0q&repo=dotfiles&show_owner=true)
