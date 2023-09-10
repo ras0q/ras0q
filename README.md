@@ -1,14 +1,11 @@
 # Hi, there:wave:
 
-![profile](https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg)
-
-## :guitar: About [@ras0q](https://github.com/ras0q)
+<img align="left" src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="50%" />
 
 :octocat: **[GitHub](https://github.com/ras0q)** | :bird: **[Twitter](https://twitter.com/ras0q)** | :pencil: **[Scrapbox](https://scrapbox.io/ras0q)** 
 :-|:-|:-
 :speaking_head: **[traP Blog](https://trap.jp/author/ras)** | :rainbow: **[Portfolio](https://ras.place)** | :wave: **[Wavebox](https://wavebox.me/wave/d58h07na1fd2iwcf/)**
 
-I'm...
 - an undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
 - a member @ [traP](https://trap.jp/) [SysAd](https://github.com/traPtitech)
 
