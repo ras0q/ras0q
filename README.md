@@ -1,6 +1,6 @@
 # Hi, there:wave:
 
-<img align="right" src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="50%" />
+<img align="right" src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="45%" />
 
 <picture>
   <source
@@ -20,9 +20,9 @@
 
 ## About [`@ras0q`](https://github.com/ras0q)
 
-:octocat: **[GitHub](https://github.com/ras0q)** / :bird: **[Twitter](https://twitter.com/ras0q)** / :pencil: **[Scrapbox](https://scrapbox.io/ras0q)** / :speaking_head: **[Blog](https://trap.jp/author/ras)**
+:octocat: **[GitHub](https://github.com/ras0q)** / :bird: **[X](https://twitter.com/ras0q)** / :pencil: **[Scrapbox](https://scrapbox.io/ras0q)** / :speaking_head: **[Blog](https://trap.jp/author/ras)**
 
-I'm a backend / iOS app developper
+Backend Engineer / iOS App Engineer
 
 - Role
   - an undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
