@@ -1,4 +1,4 @@
-# Hi, there:wave:
+# Hi, there:wave: [![Metrics](https://github.com/ras0q/ras0q/actions/workflows/main.yml/badge.svg)](https://github.com/ras0q/ras0q/actions/workflows/main.yml)
 
 <img align="right" src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="45%" />
 
