@@ -23,7 +23,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ env.METRICS_GIST }}
           template: classic
-          config_order: base.header, languages, base.activity+community, base.repositories, notable, stars
+          config_order: languages, base.activity+community, notable, stargazers, stars, rss
           config_timezone: Asia/Tokyo
           base: header, activity, community, repositories
           plugin_languages: yes
@@ -32,13 +32,17 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: Com-Pro,dotfiles
           plugin_languages_threshold: 2%
-          plugin_notable: yes
+          plugin_stargazers: yes
           plugin_notable_filter: stars:>100
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
           plugin_stars: yes
           plugin_stars_limit: 3
+          plugin_notable: yes
+          plugin_rss: yes
+          plugin_rss_source: https://trap.jp/author/ras/rss/
+          plugin_rss_limit: 3
 
   snk:
     runs-on: ubuntu-latest
