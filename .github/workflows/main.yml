@@ -23,7 +23,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ env.METRICS_GIST }}
           template: classic
-          config_order: header, languages
+          config_order: base.header, languages
           config_timezone: Asia/Tokyo
           base: header
           plugin_languages: yes
