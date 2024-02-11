@@ -1,4 +1,4 @@
-# Hi, there👋 ![last updated](https://img.shields.io/github/gist/last-commit/516152e14bb724ad66abe542935668ab?style=flat-square&label=last%20updated&labelColor=%23181717)
+# Hi, there👋 [![last updated](https://img.shields.io/github/gist/last-commit/516152e14bb724ad66abe542935668ab?style=flat-square&label=last%20updated&labelColor=%23181717)](https://gist.github.com/ras0q/516152e14bb724ad66abe542935668ab)
 
 <div align="center">
   <a href="https://github.com/ras0q"><img height="30px" alt="GitHub @ras0q" src="https://img.shields.io/badge/@ras0q-%23181717?style=flat-square&logo=github"></a>
