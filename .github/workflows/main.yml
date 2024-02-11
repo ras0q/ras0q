@@ -32,7 +32,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: Com-Pro,dotfiles
           plugin_languages_threshold: 2%
-     - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: profile.svg
           token: ${{ secrets.METRICS_TOKEN }}
