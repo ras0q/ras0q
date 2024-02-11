@@ -12,9 +12,9 @@
   <img
     alt="github contribution grid snake animation"
     src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
-    width="80%"
+    width="100%"
     align="center"
   />
 </picture>
 
-<img align="center" src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="80%" />
+<img align="center" src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="100%" />
