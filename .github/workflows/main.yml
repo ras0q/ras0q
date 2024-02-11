@@ -17,21 +17,32 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: profile.svg
+          filename: profile-header.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: ras0q
           output_action: gist
           committer_gist: ${{ env.METRICS_GIST }}
           template: classic
-          config_order: languages, base.activity+community, notable, rss, stars
+          config_order: header, languages
           config_timezone: Asia/Tokyo
-          base: activity, community
+          base: header
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_skipped: Com-Pro,dotfiles
           plugin_languages_threshold: 2%
+     - uses: lowlighter/metrics@latest
+        with:
+          filename: profile.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ras0q
+          output_action: gist
+          committer_gist: ${{ env.METRICS_GIST }}
+          template: classic
+          config_order: base.activity+community, notable, rss, stars
+          config_timezone: Asia/Tokyo
+          base: activity, community
           plugin_notable_filter: stars:>100
           plugin_notable_from: all
           plugin_notable_repositories: yes

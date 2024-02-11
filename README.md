@@ -7,6 +7,8 @@
   <a href="https://trap.jp/author/ras"><img height="30px" alt="traP @Ras" src="https://img.shields.io/badge/traP-%40Ras-%23005BAC?style=flat-square&labelColor=%23005BAC"></a>
 </div>
 
+<img align="center" src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile-header.svg" width="100%" />
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
