@@ -1,7 +1,5 @@
 # Hi, there👋 [![Metrics](https://github.com/ras0q/ras0q/actions/workflows/main.yml/badge.svg)](https://github.com/ras0q/ras0q/actions/workflows/main.yml)
 
-<img align="right" src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="50%" />
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -14,21 +12,9 @@
   <img
     alt="github contribution grid snake animation"
     src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
-    width="40%"
+    width="80%"
+    align="center"
   />
 </picture>
 
-## About [`@ras0q`](https://github.com/ras0q)
-
-:octocat: **[GitHub](https://github.com/ras0q)** / ❌ **[X](https://twitter.com/ras0q)** / 📝 **[Scrapbox](https://scrapbox.io/ras0q)** / 🗣️ **[Blog](https://trap.jp/author/ras)**
-
-Backend Engineer / iOS App Engineer
-
-- Role
-  - an undergraduate @ [TokyoTech](https://educ.titech.ac.jp/ict/)
-  - a member @ [traP](https://trap.jp/) [SysAd](https://github.com/traPtitech)
-- Skill
-  - Go
-  - Swift
-  - JavaScript / TypeScript
-  - Python (for research)
+<img align="center" src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="80%" />
