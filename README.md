@@ -1,4 +1,21 @@
-# Hi, there👋 [![Metrics](https://github.com/ras0q/ras0q/actions/workflows/main.yml/badge.svg)](https://github.com/ras0q/ras0q/actions/workflows/main.yml)
+# Hi, there👋
+
+<a href="https://gist.github.com/ras0q/516152e14bb724ad66abe542935668ab">
+  <img alt="GitHub Gist last commit" src="https://img.shields.io/github/gist/last-commit/516152e14bb724ad66abe542935668ab?style=flat-square&label=profile%20last%20updated&labelColor=%23181717">
+</a>
+<br/>
+<a href="https://github.com/ras0q">
+  <img alt="Static Badge" src="https://img.shields.io/badge/@ras0q-%23181717?style=flat-square&logo=github">
+</a>
+<a href="https://x.com/ras0q">
+  <img alt="Static Badge" src="https://img.shields.io/badge/@ras0q-%23000000?style=flat-square&logo=X">
+</a>
+<a href="https://bsky.app/profile/ras0q.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/@ras0q.com-%230285FF?style=flat-square&logo=bluesky&logoColor=%23FFFFFF">
+</a>
+<a href="https://trap.jp/author/ras">
+  <img alt="Static Badge" src="https://img.shields.io/badge/traP-%40Ras-%23005BAC?style=flat-square&labelColor=%23005BAC">
+</a>
 
 <picture>
   <source
