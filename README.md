@@ -5,7 +5,9 @@
   <a href="https://trap.jp/author/ras"><img alt="traP @Ras" src="https://img.shields.io/badge/traP-%40Ras-%23005BAC?style=flat-square&labelColor=%23005BAC"></a>
 </div>
 
-# Hi👋 I'm `@ras0q`
+<div align="center">
+
+# :art: Ras / らす / `@ras0q` :art:
 
 <div>
   <img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile-header.svg" width="500px" />
@@ -25,4 +27,5 @@
 
 <div>
   <img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="500px" />
+</div>
 </div>
