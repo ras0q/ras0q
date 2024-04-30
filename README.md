@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# :art: Ras / らす / `@ras0q` :art:
+# :art: Ras / らす :art:
 
 <div>
   <img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile-header.svg" width="500px" />
