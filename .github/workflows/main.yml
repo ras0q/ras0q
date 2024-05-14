@@ -40,7 +40,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ env.METRICS_GIST }}
           template: classic
-          config_order: base.activity+community, repositories, notable, stars
+          config_order: base.activity+community, base.repositories, notable, stars
           config_timezone: Asia/Tokyo
           base: activity, community, repositories
           plugin_notable_filter: stars:>100
