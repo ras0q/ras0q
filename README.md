@@ -9,10 +9,6 @@
 
 # :art: Ras / らす :art:
 
-<div>
-  <img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile-header.svg" width="500px" />
-</div>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -26,6 +22,31 @@
 </picture>
 
 <div>
-  <img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile.svg" width="500px" />
+  <img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile-header.svg" width="500px" />
 </div>
+
 </div>
+
+## :sparkler: Pickup Works
+
+For more information, please visit [**ras0q.com/works**](https://ras0q.com/works)!
+
+### :lemon: [ras0q.com](https://ras0q.com) - @ras0q's Portfolio
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ras0q&repo=ras0q.com)](https://github.com/ras0q/ras0q.com)
+
+### :gear: [dotfiles](https://github.com/ras0q/dotfiles) - @ras0q's dotfiles
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ras0q&repo=dotfiles)](https://github.com/ras0q/dotfiles)
+
+### :fire: [1245cal](https://blog.ras0q.com) - @ras0q's Blog
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ras0q&repo=blog)](https://github.com/ras0q/blog)
+
+### :mirror_ball: [traPortfolio](https://portfolio.trap.jp) - @traPtitech members' Portfolios
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=traPtitech&repo=traPortfolio)](https://github.com/traPtitech/traPortfolio)
+
+### :cyclone: [Graph Banner](https://obsidian.md/plugins?id=graph-banner) - Obsidian Plugin for relationship visualization
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ras0q&repo=obsidian-graph-banner)](https://github.com/ras0q/obsidian-graph-banner)
