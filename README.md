@@ -5,22 +5,24 @@
   <a href="https://trap.jp/author/ras"><img alt="traP @Ras" src="https://img.shields.io/badge/traP-%40Ras-%23005BAC?style=flat-square&labelColor=%23005BAC"></a>
 </div>
 
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake-dark.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</div>
+
 # :art: Ras / らす :art:
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake-dark.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/github-snake.svg"
-    width="80%"
-  />
-</picture>
-
 <div>
-  <img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile-header.svg" width="80%" />
+  <img src="https://gist.githubusercontent.com/ras0q/516152e14bb724ad66abe542935668ab/raw/profile-header.svg" width="500px" />
 </div>
 
 ## :sparkler: Pickup Works
