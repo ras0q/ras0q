@@ -35,7 +35,7 @@ jobs:
           plugin_languages_skipped: Com-Pro
           plugin_languages_threshold: 2%
           plugin_notable: yes
-          plugin_notable_filter: stars:>200
+          plugin_notable_filter: stars:>100
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
