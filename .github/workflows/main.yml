@@ -34,6 +34,8 @@ jobs:
           plugin_languages_ignored: shell
           plugin_languages_skipped: Com-Pro
           plugin_languages_threshold: 2%
+          plugin_languages_indepth: yes
+          
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           plugin_notable_from: all
