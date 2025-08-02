@@ -17,6 +17,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          debug: yes
           filename: profile-header.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: ras0q
