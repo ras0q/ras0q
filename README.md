@@ -5,7 +5,7 @@
   <a href="https://trap.jp/author/ras"><img alt="traP @Ras" src="https://img.shields.io/badge/traP-%40Ras-%23005BAC?style=flat-square&labelColor=%23005BAC"></a>
 </div>
 
-<h1 align="center">:art: Ras / らす :art:</h1>
+<h1 align="center">:art::art: Ras / らす :art::art:</h1>
 
 <div align="center">
   <picture>
